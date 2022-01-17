@@ -1,6 +1,6 @@
 # Esse é o teste de soma.
 
-- O programa está escrito na linguagem dart
+- O programa está escrito na linguagem dart.
 - Existem dois métodos para executar o programa:
 
 
